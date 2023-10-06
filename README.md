@@ -1,4 +1,4 @@
 # insecurly-icons
 icons for insecurly
 
-![insecurly icon](https://github.com/Ender-Ghost-Craft/insecurly-icons/assets/143233168/f009c4eb-a6af-40f3-86bd-7252b72e39cb)
+![image](https://github.com/Ender-Ghost-Craft/insecurly-icons/assets/143233168/2e277f74-e7a9-4709-a730-bea7d8a92989)
